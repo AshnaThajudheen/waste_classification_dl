@@ -1,0 +1,4 @@
+timestamp,filename,prediction,score_percent,organic_score_percent,recyclable_score_percent
+2026-10-21T18:24:58+05:30,o.jpeg,Organic,84.14,84.14,15.86
+2026-10-21T18:25:02+05:30,o.jpeg,Organic,84.14,84.14,15.86
+2026-10-21T18:25:10+05:30,p.jpeg,Recyclable,83.06,16.94,83.06
