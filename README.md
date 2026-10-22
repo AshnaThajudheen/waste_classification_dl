@@ -200,10 +200,9 @@ If the application is temporarily unavailable, check the deployment status or ru
 
 EcoSort AI demonstrates how deep learning can support waste management by making image-based waste classification more accessible. The system aims to encourage better segregation practices and contribute to environmental awareness.
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
 **Ashna Thajudheen**
+**Arpitha Bhandary**
+**Ashwin C J**
 
-B.Tech — Computer Science and Engineering (Artificial Intelligence)
-
-GitHub: [@AshnaThajudheen](https://github.com/AshnaThajudheen)
